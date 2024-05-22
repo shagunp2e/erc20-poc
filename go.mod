@@ -1,4 +1,4 @@
-module github.com/shagunp2e/erc20-poc
+module github.com/shagunp2e/erc20poc
 
 go 1.20
 
