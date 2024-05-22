@@ -1,6 +1,8 @@
-module github.com/shagunp2e/erc20Package
+module github.com/shagunp2e/erc20-poc
 
 go 1.20
+
+require github.com/p2eengineering/kalp-sdk-public v0.0.0-20240308101847-790b817406fc
 
 require (
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
@@ -18,7 +20,6 @@ require (
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
-	github.com/p2eengineering/kalp-sdk-public v0.0.0-20240308101847-790b817406fc // indirect
 	github.com/rogpeppe/go-internal v1.8.1 // indirect
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
